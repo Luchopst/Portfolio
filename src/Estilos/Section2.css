@@ -1,0 +1,38 @@
+.section2Container{
+background: rgba(0,0,0,.5);
+backdrop-filter: blur(50px);
+}
+.section2 img{
+    border: 3px solid transparent;
+
+}
+ /* configuracion Section2 */
+ .section2{
+    display: flex;
+    width: 100%;
+    height: 430px;
+  }
+  .section2 img {
+    width: 0;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .3s ease;
+  }
+  .section2 img:hover {
+    cursor: crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);
+  
+  }
+  .section2Container{
+    text-align: center;
+    font-size: 3rem;
+    color: #fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    margin: 4%;
+    padding: 20px;
+  }

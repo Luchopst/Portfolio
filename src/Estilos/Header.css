@@ -1,0 +1,40 @@
+/*configuracion de Header */
+header{
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  border-radius: 20px;
+  width: 97%;
+  background: rgba(0, 0, 0, .1);
+  backdrop-filter: blur(30px);
+  z-index: 100;
+}
+.mb-auto{
+  width: 100%;
+}
+.nav-bar a:hover {
+  border-bottom: 2px solid #fff;
+  border-top: #5a23c8;
+  background: rgba(150, 158, 158, 0.5);
+  border-radius: 8px;
+  padding: 6px;
+  transition: .5s;
+}
+.logo{
+  font-size: 2rem;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+
+  
+}
+
+.nav-bar a{
+  display:inline-block;
+    font-size: 1.15rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 2.5rem;
+
+}
