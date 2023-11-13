@@ -5,11 +5,11 @@ function Section2() {
     <div className="section2Container">
       <h3>Certificaciones</h3>
       <section className="section2">
-        <img src="src\Img\cert-1.jpeg" alt="Certificado" />
-        <img src="src\Img\cert-2.jpeg" alt="Certificado" />
-        <img src="src\Img\cert-3.jpeg" alt="Certificado" />
-        <img src="src\Img\cert-4.PNG" alt="Certificado" />
-        <img src="src\Img\cert-5.PNG" alt="Certificado" />
+        <img src="https://i.postimg.cc/Px5hxLJ6/cert-1.jpg" alt="Certificado" />
+        <img src="https://i.postimg.cc/QtYDWXWj/cert-2.jpg" alt="Certificado" />
+        <img src="https://i.postimg.cc/7ZSqQ8jN/cert-3.jpg" alt="Certificado" />
+        <img src="https://i.postimg.cc/nLkppKFj/cert-4.png" alt="Certificado" />
+        <img src="https://i.postimg.cc/1zPsk7Q1/cert-5.png" alt="Certificado" />
       </section>
     </div>
   );

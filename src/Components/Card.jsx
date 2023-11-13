@@ -10,7 +10,7 @@ function Card() {
             <h1>Html</h1>
           </div>
           <div className="back">
-            <img src="src\Img\html-img.jpg" alt="" />
+            <img src="https://i.postimg.cc/N0pqWgDR/html-img.jpg" alt="" />
           </div>
         </div>
 
@@ -19,7 +19,7 @@ function Card() {
             <h1> GitHub</h1>
           </div>
           <div className="back">
-            <img src="src\Img\git-img.jpg" alt="" />
+            <img src="https://i.postimg.cc/XYK0kKyH/git-img.jpg" alt="" />
           </div>
         </div>
 
@@ -28,7 +28,7 @@ function Card() {
             <h1>Java</h1>
           </div>
           <div className="back">
-            <img src="src\Img\java-img.jpg" alt="" />
+            <img src="https://i.postimg.cc/C15T0WrX/java-img.jpg" alt="" />
           </div>
         </div>
 
@@ -37,7 +37,7 @@ function Card() {
             <h1>JavaScript</h1>
           </div>
           <div className="back">
-            <img src="src\Img\js-img.jpg" alt="" />
+            <img src="https://i.postimg.cc/J4ZhSkkJ/js-img.jpg" alt="" />
           </div>
         </div>
 
@@ -46,7 +46,7 @@ function Card() {
             <h1>React</h1>
           </div>
           <div className="back">
-            <img src="src\Img\react-img.jpg" alt="" />
+            <img src="https://i.postimg.cc/MpwGwp7L/react-img.jpg" alt="" />
           </div>
         </div>
 
@@ -55,7 +55,7 @@ function Card() {
             <h1>CSS</h1>
           </div>
           <div className="back">
-            <img src="src\Img\css.jfif" alt="" />
+            <img src="https://i.postimg.cc/ZKdmCzYh/css-img.jpg" alt="" />
           </div>
         </div>
       </div>

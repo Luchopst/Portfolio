@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
@@ -7,19 +8,34 @@ function Header() {
         <div>
           <h3 className="Logo">Ponce-Luciano/Dev</h3>
           <nav className="nav-bar ">
-            <a
+            <Link
+              to={"inicio"}
               className="nav-link fw-bold py-1 px-0 active"
               aria-current="page"
-              href="#"
             >
               Inicio
-            </a>
-            <a className="nav-link fw-bold py-1 px-0" href="#">
+            </Link>
+            <Link
+              to={"certificaciones"}
+              className="nav-link fw-bold py-1 px-0"
+              href="#"
+            >
               Certificaciones
-            </a>
-            <a className="nav-link fw-bold py-1 px-0" href="#">
+            </Link>
+            <Link
+              to={"contacto"}
+              className="nav-link fw-bold py-1 px-0"
+              href="#"
+            >
               Contacto
-            </a>
+            </Link>
+            <Link
+              to={"acerca de"}
+              className="nav-link fw-bold py-1 px-0"
+              href="#"
+            >
+              Acerca de
+            </Link>
           </nav>
         </div>
       </header>

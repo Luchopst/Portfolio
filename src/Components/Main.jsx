@@ -6,7 +6,7 @@ function Main() {
       <h1> Si lo Sueñas lo Creas...</h1>
       <div className="luciano-container">
         <div className="luciano item1">
-          <img src="src\Img\lu03.png" alt="" />
+          <img src="https://i.postimg.cc/Cxpg8rdn/Lu-2.jpg" alt="" />
         </div>
         <p className="lead item2">
           ¡Hola! Bienvenidos a Mi sitio web... Soy Luciano, y me complace
