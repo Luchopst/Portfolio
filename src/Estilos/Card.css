@@ -3,6 +3,14 @@
     position:relative;
     width: 100%;
     height: 100%; 
+    border: 3px solid green;
+  }
+  .Title-cards{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    color: #fff;
+    padding: 20px;
   }
 #card-cont{
   background: transparent;
@@ -51,26 +59,24 @@
     color: #f1f1f1;
   }
   .cards-container{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(2,1fr);
+    display: flex;
     width: 100%;
-    height: 400px;
+    height: 200px;
     justify-content: center; 
     border-radius: 20px;
     gap: 10px;
+    padding: 20px;
   }
-  @media screen and (max-width: 768px) {
-    .cards-container{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    grid-template-rows: repeat(3,1fr);
-    width: 100%;
-    height: 400px;
-    justify-content: center; 
+  .card-container-gral{
+    border: 2px solid #fff;
     border-radius: 20px;
-    gap: 10px;
-    }
+    width: 100%;
+    padding: 20px;
+  }
+  @media screen and (max-width: 768px){
+    
+  }
+    
 
-  }
+  
  

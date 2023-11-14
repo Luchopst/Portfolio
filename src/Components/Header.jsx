@@ -5,7 +5,7 @@ function Header() {
   return (
     <div>
       <header className="mb-auto">
-        <div>
+        <div className="nav-container">
           <h3 className="Logo">Ponce-Luciano/Dev</h3>
           <nav className="nav-bar ">
             <Link
@@ -15,25 +15,13 @@ function Header() {
             >
               Inicio
             </Link>
-            <Link
-              to={"certificaciones"}
-              className="nav-link fw-bold py-1 px-0"
-              href="#"
-            >
+            <Link to={"certificaciones"} className="nav-link fw-bold py-1 px-0">
               Certificaciones
             </Link>
-            <Link
-              to={"contacto"}
-              className="nav-link fw-bold py-1 px-0"
-              href="#"
-            >
+            <Link to={"contacto"} className="nav-link fw-bold py-1 px-0">
               Contacto
             </Link>
-            <Link
-              to={"acerca de"}
-              className="nav-link fw-bold py-1 px-0"
-              href="#"
-            >
+            <Link to={"acerca de"} className="nav-link fw-bold py-1 px-0">
               Acerca de
             </Link>
           </nav>

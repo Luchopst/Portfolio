@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <footer className="mt-auto text-white-50">
+    <footer className="mt-auto text-white-50 ">
       <p>
         Si te interesa Mi Pagina ingresa a mi-
         <a

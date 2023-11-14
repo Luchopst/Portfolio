@@ -3,6 +3,11 @@
     margin: 5px;
     color: #f3f3f3;
   }
+  .mt-auto{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+  }
   
   @media (max-width: 768px) {
     .card {

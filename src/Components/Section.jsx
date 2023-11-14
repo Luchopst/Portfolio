@@ -2,19 +2,20 @@ import React from "react";
 
 function Section() {
   return (
-    <div>
+    <div className="section-container">
       <section className="section-bg">
         <p>
           Un
-          <strong> desarrollador web full stack en Proceso</strong> en Busca de
-          experiencia y con mucho Entusiasmo por crear soluciones digitales
+          <strong> Soy desarrollador web full stack en</strong> en Busca de
+          experiencias y con mucho Entusiasmo por crear soluciones digitales
           innovadoras. Especializado en el desarrollo de aplicaciones web
           completas, desde la conceptualización y diseño hasta la implementación
           y uso.
           <br />
           Trabajando con una variedad de tecnologías y lenguajes
-          <strong>(HTML5, CSS3, JAVA)</strong>. También experiencia en el uso de
-          frameworks <strong>(JDBC y JPA)</strong>, así como en bases de datos
+          <strong>(HTML5, CSS3, JAVA,JavaScript, React, Vite,Bootstrap)</strong>
+          . También experiencia en el uso de frameworks{" "}
+          <strong>(JDBC y JPA)</strong>, así como en bases de datos
           <strong>(MySQL)</strong> . Siempre en busqueda de aprender nuevas
           habilidades y técnicas para perfeccionar mis capacidades, haciendo
           entrega de productos de alta calidad a mis clientes manteniendome
