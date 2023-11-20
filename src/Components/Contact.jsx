@@ -61,17 +61,16 @@ function Contact() {
 
       <div className="agradecimiento-container">
         <p className="agradecimiento text-focus-in">
-          Gracias por Visitar Mi Pagina Querido visitante, Quiero expresar mi
-          sincero agradecimiento por tomarte el tiempo de explorar mi portfolio.
-          Cada clic y cada momento que pasaste revisando mi trabajo significa
-          mucho para mí. Espero que hayas encontrado inspiración y conocimiento
-          en el proyecto que he compartido. Detrás de cada pieza hay un
-          compromiso apasionado, y tu interés eleva esa pasión al siguiente
-          nivel. Si tienes alguna pregunta, comentario o simplemente quieres
-          conectar, estoy aquí. Tu retroalimentación es invaluable y estoy
-          ansioso por escuchar tus pensamientos. Gracias nuevamente por tu
-          visita. Espero que nuestra conexión continúe. Muy Agradecido Ponce
-          Luciano
+          Gracias por Visitar Mi Pagina!!!!, Quiero expresar mi sincero
+          agradecimiento por tomarte el tiempo de explorar mi portfolio. Cada
+          clic y cada momento que pasaste revisando mi trabajo significa mucho
+          para mí. Espero que hayas encontrado inspiración y conocimiento en el
+          proyecto que he compartido. Detrás de cada pieza hay un compromiso
+          apasionado, y tu interés eleva esa pasión al siguiente nivel. Si
+          tienes alguna pregunta, comentario o simplemente quieres conectar,
+          estoy aquí. Tu retroalimentación es invaluable y estoy ansioso por
+          escuchar tus pensamientos. Gracias nuevamente por tu visita. Espero
+          que nuestra conexión continúe. Muy Agradecido Ponce Luciano
         </p>
       </div>
     </div>
