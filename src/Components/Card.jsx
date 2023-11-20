@@ -10,7 +10,7 @@ function Card() {
         <h1>Tecnologias</h1>
       </div>
       <div className="card-gral">
-        <div className="cards-container">
+        <div className="cards-container " id="cards-container">
           <div className="card" id="card-cont">
             <div className="front" id="front-1 front-2 front-3">
               <h1>Html</h1>
@@ -65,6 +65,10 @@ function Card() {
             </div>
           </div>
         </div>
+        <p className="text-card">
+          Estos son algunas de las tecnologias aprendidas hasta el Momento que
+          mas utillizadas para la Creacion de Paginas Web
+        </p>
       </div>
     </div>
   );
