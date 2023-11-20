@@ -5,8 +5,9 @@ import Main from "./Components/Main";
 import Footer from "./Components/Footer";
 import Section from "./Components/Section";
 import Section2 from "./Components/Section2";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Contact from "./Components/Contact";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Bienvenidos from "./Components/Bienvenidos";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -15,6 +16,7 @@ function App() {
     <BrowserRouter>
       <Header />
       <Routes>
+        <Route path="/" element={<Bienvenidos />} />
         <Route path="/inicio" element={<Main />} />
         <Route path="/contacto" element={<Contact />} />
         <Route path="/acerca de" element={<Section />} />
