@@ -14,10 +14,6 @@
  
 }
 
-.Logo:hover {
-  cursor: pointer;
-  color: rgb(150, 144, 144);
-}
 
 .hamburger-menu {
   display: none;
@@ -35,38 +31,41 @@
   padding: 0;
   margin: 0;
 }
-
+#link:hover{
+  color: aqua; 
+  cursor: pointer;
+}
 .nav-link {
   text-decoration: none;
   color: #fff;
   margin: 0 15px;
 
 }
-#nav-link:hover{
-  cursor: pointer;
-}
 
 /* Estilos para pantallas pequeñas */
 @media screen and (max-width: 768px) {
   .Logo{
+   position: relative;
+   left: 50%;
     border: 2px solid #fff;
     border-radius: 7px;
     padding: 6px; 
-    display: flex;
-    justify-content: center;
   }
-
+  .Logo:hover {
+    cursor: pointer;
+    color: aqua;
+    border:2px solid aqua;
+  }
   .nav-bar {
-    display: none;
+    display:none;
     flex-direction: column;
     position: absolute;
     top: 60px;
-    left: 0;
+    left: 70%;
     width: 100%;
     background: transparent;
     padding: 10px;
-    text-align: center;
-    left: 30%;
+    
    
 
     
@@ -84,16 +83,15 @@
  #link{
   width: 100px;
      border-bottom:1px solid #fff;
-     margin-bottom: 6px;
      font-weight: 700;
+     
   }
   #link:hover{
     border-bottom:1px solid #9b9797;
-    color: #9b9797;
+    color: aqua;
   }
   .nav-container{
-    display: flex;
-    justify-content: center;
     width: 100%;
+    z-index: 2000;
   }
 }

@@ -30,7 +30,7 @@ padding: 10px;
   }
   .section2 img:hover {
     cursor: crosshair;
-    width: 300px;
+    width:200px;
     opacity: 1;
     filter: contrast(120%);
   
@@ -55,4 +55,11 @@ padding: 10px;
   }
   .section2-h3{
     padding: 1.5rem;
+  }
+  @media screen and(max-width: 768px) {
+    .section2-text{
+width: 100%;
+height: 300px;
+    }
+
   }

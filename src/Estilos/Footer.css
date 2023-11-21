@@ -13,7 +13,10 @@
 
     .mt-auto{
       display: flex;
+      align-items: center;
       text-align: center;
+      width: 100%;
+      height: 300px;
     }
   
   }

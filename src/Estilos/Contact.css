@@ -420,6 +420,11 @@ color: lightgray;
       height: auto;
     gap: 20px;
      place-items: center;
+     margin-top: 30px;
+    }
+    .contact-icons svg:hover{
+     color: aqua;
+     transition: all 0.7s;
     }
     .agradecimiento{
       width: 100%;
@@ -432,9 +437,15 @@ color: lightgray;
       margin-top: 40px;
     }
     .contact-title h1 {
+      display: block;
+      position: relative;
+      bottom: 60px;
       font-size: 5em;
-      margin-top: 100px;
-      width:100%;
-     text-align: center;
+      width:63%;
+     text-align: end;
+     z-index: 0;
+    }
+    .contact-title{
+      width: 63%;
     }
   }
