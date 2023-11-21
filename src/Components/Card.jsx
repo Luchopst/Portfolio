@@ -1,4 +1,5 @@
 import React from "react";
+import "../Estilos/Card.css";
 
 function Card() {
   return (

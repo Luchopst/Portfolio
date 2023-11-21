@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import "../Estilos/Header.css";
 
 function Header() {
   const [menuVisible, setMenuVisible] = useState(false);

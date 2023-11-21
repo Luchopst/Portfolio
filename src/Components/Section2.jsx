@@ -1,4 +1,5 @@
 import React from "react";
+import "../Estilos/Section2.css";
 
 function Section2() {
   return (
