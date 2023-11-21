@@ -5,7 +5,6 @@ function Bienvenidos() {
     <div className="bienvenidos-gral">
       <div className="bienvenidos-container">
         <h1 className="bienvenidos-title text-flicker-in-glow ">
-          {" "}
           ¡¡¡Bienvenidos!!!
         </h1>
       </div>
