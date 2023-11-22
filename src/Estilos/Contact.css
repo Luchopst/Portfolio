@@ -20,6 +20,10 @@ color: lightgray;
     width: 160px;
     height: 160px;
 }
+.contact-icons svg:hover{
+  color: aqua;
+  transition: all 0.7s;
+ }
 .agradecimiento-container{
     width: 100%;
     display: flex;
