@@ -6,7 +6,6 @@ function Section() {
     <div className="section-container">
       <section className="section-bg">
         <p>
-          Un
           <strong> Soy desarrollador web full stack en</strong> en Busca de
           experiencias y con mucho Entusiasmo por crear soluciones digitales
           innovadoras. Especializado en el desarrollo de aplicaciones web
@@ -14,7 +13,7 @@ function Section() {
           y uso.
           <br />
           Trabajando con una variedad de tecnologías y lenguajes
-          <strong>(HTML5, CSS3, JAVA,JavaScript, React, Vite,Bootstrap)</strong>
+          <strong>(HTML5, CSS3, JAVA,JavaScript, React, Vite,Bootstrap, Node js, Thymeleaf )</strong>
           . También experiencia en el uso de frameworks{" "}
           <strong>(JDBC y JPA)</strong>, así como en bases de datos
           <strong>(MySQL)</strong> . Siempre en busqueda de aprender nuevas

@@ -31,12 +31,12 @@ function Section2() {
       </div>
       <div className="text-container">
         <p className="section2-text">
-          Estos son algunos de los Certificados otorgados en cursos como EGG
+          Estas son Certificaciones otorgadas en plataformas Educativas como EGG
           Cooperations (https://egg.live/es-ar/) mediante Argentina Programa 4.0
           del Gobrierno de la Nacion, apps, como Solo Leanr
           (https://www.sololearn.com/), paginas, como Fundacion Carlos Slim
           (https://fundacioncarlosslim.org/), Educacion IT
-          (https://www.educacionit.com) , etc Mi objetivo es poner en practica
+          (https://www.educacionit.com) , las cuales avalan mi conocimiento, Mi objetivo es poner en practica
           todo lo aprendido al dia de la Fecha.
         </p>
       </div>

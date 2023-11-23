@@ -11,8 +11,8 @@ function Bienvenidos() {
       </div>
       <span className="bienvenidos-text">
         La siguiente Pagina es Mi Primer Pagina , espero sea de Su agrado ya que
-        es totalmente Nativa, no hay plantillas ya creadas o precargadas en
-        palabras somples esta echa a Puño y Letra
+        es totalmente Nativa, no hay plantillas ya creadas ño precargadas en
+        palabras simples esta desarrollada a Puño y Letra
       </span>
     </div>
   );
