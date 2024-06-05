@@ -68,7 +68,7 @@ function Card() {
         </div>
         <p className="text-card">
           Estos son algunas de las tecnologias aprendidas hasta el Momento que
-          mas utillizadas para la Creacion de Paginas Web
+          mas son utillizadas para la Creacion de Paginas Web
         </p>
       </div>
     </div>

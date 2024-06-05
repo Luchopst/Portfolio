@@ -37,7 +37,7 @@ function Section2() {
           (https://www.sololearn.com/), paginas, como Fundacion Carlos Slim
           (https://fundacioncarlosslim.org/), Educacion IT
           (https://www.educacionit.com) , etc Mi objetivo es poner en practica
-          todo lo aprendido al dia de la Fecha.
+          todo lo aprendido al dia de la Fecha y jamas dejar de aprender.
         </p>
       </div>
     </div>
